@@ -48,10 +48,10 @@ A continuación se observa las importaciones de bibliotecas de Python que son ú
 ---
 
 Para este proyecto se uso el dataset FER2013 <br>
-- [Dataset 🌟](https://colab.research.google.com/drive/12faMWJeMDSSs2MvHXCcXVDVJEoanG5j_)
+- [Dataset 🌟](https://colab.research.google.com/drive/12faMWJeMDSSs2MvHXCcXVDVJEoanG5j)
 
 ---
-Aquí encontrarán el modelo utilizado:
+Aquí encontrarán nuestro modelo:
 
-[Ver Cuaderno](FotoEmocion__Cancion.ipynb)
+- [Ver modelo](FotoEmocion__Cancion.ipynb)
 
