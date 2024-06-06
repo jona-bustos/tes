@@ -53,5 +53,5 @@ Para este proyecto se uso el dataset FER2013 <br>
 ---
 Aquí encontrarán el modelo utilizado:
 
-<a href="https://colab.research.google.com/drive/12faMWJeMDSSs2MvHXCcXVDVJEoanG5j_"> COLAB2 🌟<br>
+[Ver Cuaderno](FotoEmocion__Cancion.ipynb)
 
