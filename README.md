@@ -53,5 +53,5 @@ Para este proyecto se uso el dataset FER2013 <br>
 ---
 Aquí encontrarán nuestro modelo:
 
-- [Ver modelo](FotoEmocion__Cancion.ipynb)
+- [Ver modelo 🌟](FotoEmocion__Cancion.ipynb)
 
